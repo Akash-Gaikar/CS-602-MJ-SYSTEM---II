@@ -1,0 +1,40 @@
+ELF Practical – From Object File to Running Process
+
+
+Introduction
+
+This project demonstrates ELF (Executable and Linkable Format) in Ubuntu Linux.
+
+Practical Topics
+
+1. Creating a C program
+2. Compiling source code into an object file
+3. Exploring ELF headers
+4. Exploring ELF sections
+5. Symbol table
+6. Relocation information
+7. Disassembly using objdump
+8. Creating an executable file
+9. Program headers and segments
+10. Dynamic linking
+11. ELF32 and ELF64
+12. Running a program in Linux
+
+Commands and Tools
+
+- GCC
+- readelf
+- objdump
+- file
+- ldd
+- Linux Terminal
+
+Output
+Sum = 30
+
+Operating System
+Ubuntu Linux
+
+Author
+
+Amol Rajendra Barde
